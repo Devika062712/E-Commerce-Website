@@ -1,0 +1,9 @@
+.products-page {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.search-box {
+  border-radius: 5px;
+}

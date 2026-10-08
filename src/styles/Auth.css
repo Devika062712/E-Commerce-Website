@@ -1,0 +1,7 @@
+.auth-page {
+  border-radius: 8px;
+}
+
+.auth-page button {
+  width: fit-content;
+}
